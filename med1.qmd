@@ -17,7 +17,7 @@ execute:
 :::: {.columns}
 ::: {.column width="50%"}
 #### Routine screening for ocular candidiasis?
-![](/opto1.png)
+![](opto1.png)
 :::
 
 ::: {.column width="50%"}
@@ -32,4 +32,4 @@ execute:
 
 ## 
 
-![](/opto2.png)
+![](opto2.png)
