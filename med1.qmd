@@ -1,0 +1,35 @@
+---
+title: "Some Studies"
+subtitle: ""
+author: ""
+format:
+  revealjs:
+    theme: theme.scss
+    transition: fade
+    background-transition: fade
+    highlight-style: ayu-mirage
+code-link: true
+execute:
+  echo: true
+  freeze: auto 
+---
+
+:::: {.columns}
+::: {.column width="50%"}
+#### Routine screening for ocular candidiasis?
+![](/opto1.png)
+:::
+
+::: {.column width="50%"}
+
+ **Breazzano, M. P. et al. Utility of Ophthalmologic Screening for Patients With Candida Bloodstream Infections: A Systematic Review. JAMA Ophthalmol 137, 698 (2019)**
+
+:::
+
+:::
+::::
+
+
+## 
+
+![](/opto2.png)
